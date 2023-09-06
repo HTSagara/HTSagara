@@ -9,7 +9,7 @@
 
 
 ```
-class henrique:
+class Henrique:
   def __init__(self):
     self.name = "Henrique Sagara"
     self.position = "Student"
