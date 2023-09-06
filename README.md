@@ -29,7 +29,7 @@ class Henrique:
 - ⚡ Fun facts:
   - I love sports ⚽
   - Listening to music 🎵
-  - Watch movies 🎦
+  - Watching movies 🎦
 
 <p align="left">
   <img src="https://media.tenor.com/_FtqjI3xnO8AAAAd/listening-to-music-miles-morales.gif"  style="width:400px;height:200px;"/>
