@@ -20,7 +20,7 @@ class Henrique:
 
 
 
-- 🔭 I’m currently working in RPDU (Rapid Prototype Design Unit) as a Co-op Student from Seneca College.
+- 🔭 I’m currently a Student from Seneca College.
 - 🌱 I’m currently learning **Cloud Computing and Java**
 - 👨‍💻 All of my projects are available at [https://github.com/HTSagara](https://github.com/HTSagara)
 - 📫 How to reach me **henrique.sagara@hotmail.com / hsagara@myseneca.ca**
